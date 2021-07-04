@@ -34,6 +34,10 @@ h2{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+#half-width-ex{
+    border:5px solid grey;
+    border-radius: 50px;
+}
 .dream-big{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
